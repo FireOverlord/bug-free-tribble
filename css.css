@@ -1,0 +1,13 @@
+.objectNames{
+    color:crimson;
+    background-color: hsl(0, 0%, 2%);
+}
+#Webcam{
+    border: 2px dashed  #00ca8e ;
+    width: 350px;
+    height: 300px;
+}
+h3{
+    width: max-content;
+    height: min-content;
+}
